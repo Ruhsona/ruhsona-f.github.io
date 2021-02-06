@@ -1,7 +1,5 @@
 body {padding:0; margin:0; background: #c4c9c1; font-family: sans-serif;} 
-#project1 {
-  display: block;
+#project1 {display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-}
+  width: 50%;}
